@@ -1,0 +1,175 @@
+{
+	"Saludos": {
+		"Buenos dias": {
+			"translation": "Здравствуйте",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"Buenas noches": {
+			"translation": "Добрый вечер",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"Hola": {
+			"translation": "Привет",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"¿Como estas?": {
+			"translation": "Как дела?",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"Estoy bien, gracias, ¿y tu?": {
+			"translation": "Bce хорошо, спасибо. Как ты?",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"Disculpeme": {
+			"translation": "Извините",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"Lo siento": {
+			"translation": "Простите",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"No pasa nada": {
+			"translation": "Это не проблема",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"Por favor": {
+			"translation": "Пожалуйста",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"Gracias": {
+			"translation": "Спаси́бо",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"Es un placer": {
+			"translation": "Пожалуйста",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"¡Encantado!": {
+			"translation": "Очень приятно!",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"Adios": {
+			"translation": "До свидания",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"Hasta pronto": {
+			"translation": "До скорого",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		}
+	},
+
+	"Frasecillas": {
+		"¿Como te llamas?": {
+			"translation": "Kaк вас зовут?",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"Me llamo…": {
+			"translation": "Меня зовут",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"¿Como estas?": {
+			"translation": "Kaк дeлa?",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"¿Como esta?": {
+			"translation": "Kaк поживаете?",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"¿Puedo ayudarle?": {
+			"translation": "Я могу вам помочь?",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"¿Me puede ayudar?": {
+			"translation": " Можете помочь?",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"No entiendo": {
+			"translation": "Я не понимаю",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"¿Me lo puede repetir, por favor?": {
+			"translation": "Вы можете повторить?",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"Hablo un poco de ruso": {
+			"translation": "Я немного говорю по-русски",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"No hablo ruso": {
+			"translation": "Я не говорю по-русски",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"¿Habla español?": {
+			"translation": "Говорите по-испански?",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"¿Como se dice … en ruso?": {
+			"translation": "Как сказать …",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"¿Que significa… ?": {
+			"translation": "Что значит",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		},
+		"Soy español": {
+			"translation": "Я испанец",
+			"asked": 0,
+			"hitWrittenRu": 0,
+			"hitWrittenOg": 0
+		}
+	}
+}
