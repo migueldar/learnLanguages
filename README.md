@@ -6,6 +6,6 @@ npm ci
 ```
 to install the dependencies, then execute 
 ```
-node index.js
+npm run exec
 ```
 and the webpage will be running on localhost, port 8080, you can access it using your favourite web browser!
