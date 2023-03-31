@@ -9,8 +9,10 @@ import {
 import { getRandomInt } from "./utils.js";
 
 const languaje_file = "./words.json";
-const parsedJson = JSON.parse(fs.readFileSync(languaje_file));
-const words_per_lesson = 5;
+const parsedJson: string = JSON.parse(
+	fs.readFileSync(languaje_file).toString()
+);
+const words_per_lesson: number = 5;
 const app = express();
 app.use(express.urlencoded({ extended: true }));
 
@@ -21,7 +23,7 @@ function getGroups() {
 function selectWords(words) {
 	let ogWords = Object.keys(words);
 	let counter = 0;
-	let wordsSelected = [];
+	let wordsSelected: number[] = [];
 	let ret = [];
 
 	while (counter < words_per_lesson) {

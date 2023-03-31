@@ -1,5 +1,5 @@
-export function index_template(groups) {
-	let html_string = "";
+export function index_template(groups: string[]) {
+	let html_string: string = "";
 	for (let group of groups) {
 		html_string += `<a href=/${group}/list> ${group} </a><br><br>`;
 	}
@@ -15,7 +15,7 @@ export function index_template(groups) {
 		</html>`;
 }
 
-export function list_template(words, group) {
+export function list_template(words: string[][], group: string) {
 	let wordsForLesson_html = "";
 
 	for (let word of words) {
@@ -34,7 +34,7 @@ export function list_template(words, group) {
         </html>`;
 }
 
-export function lesson_template(word, group) {
+export function lesson_template(word: string, group: string) {
 	return /* HTML */ `<!DOCTYPE html>
 		<html>
 			<head>
@@ -61,7 +61,11 @@ export function lesson_template(word, group) {
 		</html>`;
 }
 
-export function lesson_answer_template(word, group, answer) {
+export function lesson_answer_template(
+	word: string[],
+	group: string,
+	answer: string
+) {
 	return /* HTML */ `<!DOCTYPE html>
     <html>
         <head>
@@ -71,7 +75,7 @@ export function lesson_answer_template(word, group, answer) {
             <h1>${group}</h1>
             <p>${word[0]}</p>
 			<input type="text" name="answer" autocomplete="off" placeholder="${answer}"/>
-            <p style="color:red;">Incorrect :(, the correct answer is: ${word[1]};</p>
+            <p style="color:red;">Incorrect :(, the correct answer is: ${word[1]}</p>
             <a href=/${group}/lesson> Next <a>
         </body>	
     </html>`;

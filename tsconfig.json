@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "esModuleInterop": true,
+        "outDir": "lib",
+    },
+    "include": ["src/**/*"],
+	"exclude": ["node_modules/**"]
+}
